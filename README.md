@@ -15,7 +15,7 @@ Converted to
 ```
 ## 2. Hindi Word2Vec generationi:
  ```
-cd Word2Vec-Hindi
+$ cd Word2Vec-Hindi
 $ python3 gen_w2v_hindi.py
 ```
 
